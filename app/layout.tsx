@@ -14,6 +14,9 @@ export const metadata: Metadata = {
     template: "%s | My Blog",
   },
   description: "개발과 기술에 대한 블로그입니다.",
+  verification: {
+    google: "9G-I2lGLAmox37QxyeY1T-vZc_BfNvHJRv37cYApoVo",
+  },
 };
 
 export default function RootLayout({
